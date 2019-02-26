@@ -3,7 +3,7 @@
  * This class represents a Rectangle object. When combined with the GameArena class,
  * instances of the Rectangle class can be displayed on the screen.
  */
-public class Rectangle 
+public css Rectangle 
 {
     // The following instance variables define the information needed to represent a Ball
     // Feel free to more instance variables if you think it will support your work... 
